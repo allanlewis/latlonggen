@@ -1,0 +1,10 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+Gooey==2.0.0
+googlemaps==2.5.1
+idna==2.6
+requests==2.18.4
+six==1.10.0
+Unidecode==0.4.21
+urllib3==1.22
+wxPython==4.0.0b1
