@@ -1,12 +1,8 @@
 import csv
 import googlemaps
-import logging
 from gooey import Gooey, GooeyParser
 from operator import itemgetter
 from unidecode import unidecode
-
-logging.basicConfig(level=logging.INFO, format='%(levelname)8s: %(message)s')
-logger = logging.getLogger(__name__)
 
 
 @Gooey(program_name='Lat-Lng Generator')
